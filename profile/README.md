@@ -1,6 +1,6 @@
-# 🌌 Welcome to Aurora Theory!
+# 🌌 Welcome to Aurora Theory
 
-Hey! Welcome to **Aurora Theory** — this is where we build cool and smart tools for quantitative finance. If you’re into trading algorithms and love clean, easy teamwork, you’re in the right place.
+Hey! Welcome to **Aurora Theory**, this is where we build cool and smart tools for quantitative finance. If you’re into trading algorithms and love clean, easy teamwork, you’re in the right place.
 
 Right now, we’re all about working on **Meta-Filters**. Think of them as the secret sauce that helps our trading algorithms get better.
 
